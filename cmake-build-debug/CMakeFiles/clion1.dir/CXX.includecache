@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/sai/C++/clion1/arr.cpp
+stack
+-
+map
+-
+arr.h
+/home/sai/C++/clion1/arr.h
+
+/home/sai/C++/clion1/arr.h
+vector
+-
+array
+-
+algorithm
+-
+queue
+-
+iostream
+-
+unordered_map
+-
+string
+-
+
+/home/sai/C++/clion1/main.cpp
+iostream
+-
+vector
+-
+array
+-
+arr.h
+/home/sai/C++/clion1/arr.h
+
